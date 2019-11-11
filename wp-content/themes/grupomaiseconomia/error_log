@@ -1,0 +1,5 @@
+[13-Nov-2017 17:16:41 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/grupo3xceler/public_html/wp-content/themes/grupomaiseconomia/index.php on line 1
+[14-Nov-2017 10:00:19 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/grupo3xceler/public_html/wp-content/themes/grupomaiseconomia/index.php on line 1
+[14-Nov-2017 13:19:15 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/grupo3xceler/public_html/wp-content/themes/grupomaiseconomia/index.php on line 1
+[14-Nov-2017 16:08:55 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/grupo3xceler/public_html/wp-content/themes/grupomaiseconomia/index.php on line 1
+[14-Nov-2017 20:07:30 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/grupo3xceler/public_html/wp-content/themes/grupomaiseconomia/index.php on line 1

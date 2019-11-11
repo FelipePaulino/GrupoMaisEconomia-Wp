@@ -1,0 +1,22 @@
+[06-Nov-2017 11:54:49 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 60
+[06-Nov-2017 11:54:52 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 60
+[06-Nov-2017 14:38:38 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 61
+[06-Nov-2017 14:38:43 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 61
+[06-Nov-2017 14:40:05 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 61
+[06-Nov-2017 14:50:40 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 60
+[06-Nov-2017 14:53:05 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/single-unidades.php on line 60
+[06-Nov-2017 14:54:07 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 14:59:39 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 14:59:42 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:00 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:03 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:03 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:03 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:03 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:04 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:04 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:18 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:22 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 15:00:27 UTC] PHP Parse error:  syntax error, unexpected '153' (T_LNUMBER) in /home/admin/dev.3xceler.com.br/grupo-economia/wp-content/themes/grupomaiseconomia/index.php on line 115
+[06-Nov-2017 21:30:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=12859 in /home/admin/dev.3xceler.com.br/grupo-economia/wp-includes/wp-db.php on line 1942
+[06-Nov-2017 21:30:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=12826 in /home/admin/dev.3xceler.com.br/grupo-economia/wp-includes/wp-db.php on line 1942
